@@ -62,6 +62,98 @@ We can see that 2010 has then highest number of bird strike incidents.
 
 ![Top10_airlines](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/17c703e1-6513-481f-8eda-a5221ae387f3)
 
+Business Airlines has encountered bird strike incidents the most.
+
+## Airports with most incidents of bird strikes – Top 50
+**Tableau Link** : Click [here](https://public.tableau.com/views/top50_airports/Top50_airports?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Top50_airports](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/122f93d0-d1d6-41b6-bba7-ef3cd7cd318f)
+
+## Yearly Cost Incurred due to Bird Strikes:
+**Tableau Link** : Click [here](https://public.tableau.com/views/yearly_cost/yearly_cost?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![yearly_cost](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/dc75cd28-47dd-44e8-a9ed-6160a4b9c323)
+
+Cost incurred due to bird strikes is highest in 2001.
+
+## When do most bird strikes occur?
+**Tableau Link** : Click [here](https://public.tableau.com/views/most_birdstriks/most_birds?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![most_birds](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/ac1d188e-289d-4ade-8bc0-8e47557408c8)
+
+Most of the incidents have happened when there is no cloud in each year.
+
+## Altitude of airplanes at the time of strike
+**Tableau Link** : Click [here](https://public.tableau.com/views/altitude_aeroplanes/altitude_aeroplane?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![altitude_aeroplane](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/2f408d7e-5644-462d-be50-5e5bb037803a)
+
+87.11% of bird strike incidents have happened when the altitude of airplane was <1000 ft and 12.89% have happend when altitude was >1000 ft.
+
+## Phase of flight at the time of the strike
+**Tableau Link** : Click [here](https://public.tableau.com/views/phase_flight/phase_flight?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![phase_flight](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/e28e230f-ac3b-4f52-ad9b-24de4a51d287)
+
+## Average Altitude of the aeroplanes in different phases at the time of strike
+**Tableau Link** : Click [here](https://public.tableau.com/views/avg_altitude/avg_altitude?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![avg_altitude](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/a6a86115-75d4-4a74-a203-9e0648a777e7)
+
+## Effect of Bird Strikes & Impact on Flight
+**Tableau Link** : Click [here](https://public.tableau.com/views/effect_damage2/effect_damage2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+**Tableau Link** : Click [here](https://public.tableau.com/views/effect_damage/effect_damage?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![effect_damage2](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/45262cb5-4174-490d-a44b-ffb25b4cfc3e)
+
+![effect_damage](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/257a7290-e9fb-4ea7-afd1-613cb2f11e97)
+
+* 83.19% incidents caused no damage while 16.81% incidents caused damage.
+* 81.93% incidents where there was no impact on flights
+* 9.75% incidents where there was precautionary landing
+* 3.14% incidents where take off was aborted take-off
+* 2.07% incidents where engine was shut down
+
+## Effect of Strike at Different Altitude
+**Tableau Link** : Click [here](https://public.tableau.com/views/effect_altitude/effect_altitude?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![effect_altitude](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/3348becc-68e4-4489-b1cc-5cdb37c584b0)
+
+## Were Pilots Informed? & Prior Warning and Effect of Strike Relation
+**Tableau Link** : Click [here](https://public.tableau.com/views/pilot_informed/informed?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+**Tableau Link** : Click [here](https://public.tableau.com/views/warn_effect/warn_effect?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![informed](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/e74b3ff8-8be7-4ba1-a4ab-fc2b99b75a96)
+
+![warn_effect](https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/6eacafac-88c2-42b4-a111-f2cb42f0a7df)
+
+46.410% pilots were informed.
+
+# Conclusion
+* In the year 2010 has then highest number of bird strike incidents.
+* Business Airlines has encountered bird strike incidents most.
+* Cost incurred due to bird strikes is highest in 2001.
+* Most of the incidents have happened when there is no cloud in each year.
+* 87.11% of bird strike incidents have happened when the altitude of airplane was <1000 ft and 12.89% have happened when altitude was >1000 ft.
+* 83.19% incidents caused no damage while 16.81% incidents caused damage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
