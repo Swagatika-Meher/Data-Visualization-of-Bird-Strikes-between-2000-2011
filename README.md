@@ -131,6 +131,12 @@ Most of the incidents have happened when there is no cloud in each year.
 
 46.410% pilots were informed.
 
+# Overview
+
+**Tableau Dashboard** : Click [here](https://public.tableau.com/app/profile/swagatika.meher/viz/Bird_strik_dashboard/Story1?publish=yes)
+
+https://github.com/Swagatika-Meher/Data-Visualization-of-Bird-Strikes-between-2000-2011/assets/114692581/30007ed5-a4d3-43b3-b522-a217806250f9
+
 # Conclusion
 * In the year 2010 has then highest number of bird strike incidents.
 * Business Airlines has encountered bird strike incidents most.
